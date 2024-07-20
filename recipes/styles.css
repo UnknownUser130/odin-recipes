@@ -1,0 +1,15 @@
+.recipe_lasagna {
+  display: flex;
+  list-style-type: lower-alpha;
+  padding: 0;
+  justify-content: space-evenly;
+}
+.main_heading,
+.heading_lasagna,
+.heading_pancakes,
+.heading_pizza {
+  font-size: 1.5em;
+  color: #333;
+  font-family: "georgia", sans-serif;
+  font-size: 4vw;
+}
